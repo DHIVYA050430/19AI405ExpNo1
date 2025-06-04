@@ -36,8 +36,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<h4>Developed By: Nijeesh NJ</h4>
-<h4>Register Number: 212223100039</h4>
+<h4>Developed By: Roopak C S</h4>
+<h4>Register Number: 212223220088</h4>
 <h3>Program</h3>
 
 ```python
@@ -104,6 +104,7 @@ agent.print_status()
 ```
 
 ## Output:
+
 ![alt text](image.png)
 
 ## Result:
