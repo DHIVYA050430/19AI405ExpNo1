@@ -97,7 +97,8 @@ if __name__ == "__main__":
 ```
 ### OUTPUT:
 
-![alt text](<Screenshot 2025-09-08 155602.png>)
+<img width="696" height="147" alt="EXP1 AI" src="https://github.com/user-attachments/assets/3c9406f7-dd5c-4d57-8925-2c983c7f925c" />
+
 
 ### RESULT:
 Thus, the PEAS description for the given AI problem was found and developed an AI agent.
